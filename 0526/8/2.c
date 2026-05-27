@@ -1,4 +1,5 @@
 #include <ctype.h>
+#include "my_header.h"
 
 int up_down_case(int c)
 {
